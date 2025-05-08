@@ -1,0 +1,1 @@
+# Copiloto-e-ferramentas-da-OpenAI
